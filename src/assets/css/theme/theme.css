@@ -1,0 +1,107 @@
+/*
+ * #### 配色表
+ */
+.primary-color {
+  color: #d7b791;
+}
+.title-color {
+  color: #000000;
+}
+.title-border-color {
+  color: #000000;
+}
+.text-color {
+  color: #8b8b8b;
+}
+.disable-color {
+  color: #cccccc;
+}
+.disable-bg-color {
+  background-color: #cccccc;
+}
+.disable-border-color {
+  border-color: #cccccc;
+}
+.white-color {
+  color: #ffffff;
+}
+.white-bg-color {
+  color: #ffffff;
+}
+.success-color {
+  color: #09bb07;
+}
+.success-bg-color {
+  background-color: #09bb07;
+}
+.warning-color {
+  color: #ff3b30;
+}
+.warning-bg-color {
+  background-color: #ff3b30;
+}
+.primary-bg-color {
+  background-color: #d7b791;
+}
+.primary-border-color {
+  border-color: #d7b791;
+}
+.bg-color {
+  background-color: #ffffff;
+}
+.bg-color-base {
+  background-color: #f5f5f5;
+}
+.border-radius {
+  border-radius: 0.13333333rem;
+}
+.cricle-border-radius {
+  border-radius: 0.6rem;
+}
+.login-bg-color {
+  background: #000000;
+}
+.login-border-color {
+  border-color: #ffffff;
+}
+.pg-btn {
+  background: #d7b791;
+  color: #ffffff;
+}
+.pg-btn.disabled {
+  background: #cccccc;
+}
+.gesturepsw .patt-circ {
+  border-color: #d7b791;
+}
+.gesturepsw .patt-circ.hovered .patt-big-dots {
+  background: #d7b791;
+}
+.gesturepsw .patt-error .patt-circ.hovered .patt-big-dots {
+  background: #ff3b30;
+}
+.gesturepsw .patt-success .patt-circ.hovered .patt-big-dots {
+  background: #09bb07;
+}
+.gesturepsw .patt-error .patt-circ.hovered .patt-dots {
+  background: #ff3b30;
+}
+.gesturepsw .patt-success .patt-circ.hovered .patt-dots {
+  background: #09bb07;
+}
+.gesturepsw .patt-dots {
+  background: #d7b791;
+}
+.gesturepsw .patt-circ.hovered .patt-dots {
+  background: #d7b791;
+}
+.gesturepsw .patt-success .patt-lines {
+  background: #09bb07;
+}
+.gesturepsw .patt-error .patt-lines {
+  background: #ff3b30;
+}
+.gesturepsw .patt-lines {
+  background: #d7b791;
+}
+/*# sourceMappingURL=theme.css.map */
